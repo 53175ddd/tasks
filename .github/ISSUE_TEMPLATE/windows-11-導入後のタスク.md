@@ -20,6 +20,6 @@ assignees: 53175ddd
 - [ ] ExplorerPatcher の導入
   - <https://github.com/valinet/ExplorerPatcher/releases>
 - [ ] Google 日本語入力の導入
- - <https://www.google.co.jp/ime/>
+  - <https://www.google.co.jp/ime/>
 - [ ] Microsoft IME のリストラ
   - 「設定」 -> 「時刻と言語」 -> 「言語」 -> 「優先する言語」 -> 「日本語 [オプション]」 -> 「キーボード」
