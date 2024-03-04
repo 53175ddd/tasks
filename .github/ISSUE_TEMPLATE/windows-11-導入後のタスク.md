@@ -23,3 +23,5 @@ assignees: 53175ddd
   - <https://www.google.co.jp/ime/>
 - [ ] Microsoft IME のリストラ
   - 「設定」 -> 「時刻と言語」 -> 「言語」 -> 「優先する言語」 -> 「日本語 [オプション]」 -> 「キーボード」
+- [ ] Ctrl + Space を使うように設定
+  - <https://kurobutasan.com/google-ime-ctrl-space/>
