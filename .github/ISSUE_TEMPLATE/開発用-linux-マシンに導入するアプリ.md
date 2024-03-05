@@ -12,3 +12,4 @@ assignees: 53175ddd
 - [ ] Discord の導入
 - [ ] Discord PTB の導入
 - [ ] VSCode の導入
+- [ ] OBS の導入
