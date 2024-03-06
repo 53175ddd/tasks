@@ -1,5 +1,5 @@
 ---
-name: 開発用 Linux マシンに導入するアプリ
+name: 開発用 Linux マシン環境構築手順
 about: Linux ノートのセットアップ
 title: ''
 labels: ''
