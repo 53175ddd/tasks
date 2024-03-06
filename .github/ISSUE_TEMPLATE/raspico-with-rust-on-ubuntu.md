@@ -37,4 +37,5 @@ export PKG_CONFIG_PATH=/usr/lib/pkgconfig
 - [ ] ユーティリティのインストール
 ```
 cargo install flip-link elf2uf2-rs probe-run
+cargo install probe-rs --feature cli
 ```
