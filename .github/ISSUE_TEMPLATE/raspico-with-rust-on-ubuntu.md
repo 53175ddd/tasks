@@ -39,3 +39,11 @@ export PKG_CONFIG_PATH=/usr/lib/pkgconfig
 cargo install flip-link elf2uf2-rs probe-run
 cargo install probe-rs --feature cli
 ```
+- [ ] OpenSSL のインストール
+```
+sudo apt install libssl-dev
+```
+- [ ] cargo-generate のインストール
+```
+cargo install cargo-generate
+```
