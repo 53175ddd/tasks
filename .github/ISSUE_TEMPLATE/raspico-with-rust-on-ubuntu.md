@@ -3,7 +3,7 @@ name: RasPico with Rust on Ubuntu
 about: Ubuntu 上で RasPico のプログラミングを Rust で行える環境をセットアップする手順
 title: ''
 labels: ''
-assignees: ''
+assignees: 53175ddd
 
 ---
 

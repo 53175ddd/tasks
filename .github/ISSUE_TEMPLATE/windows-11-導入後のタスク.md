@@ -7,8 +7,10 @@ assignees: 53175ddd
 
 ---
 
+- [ ] winget の導入
+  - <https://aka.ms/getwinget>
 - [ ] Google Chrome の導入
-  - <https://www.google.com/intl/ja_jp/chrome/>
+  - `winget install --id Google.Chrome --force`
 - [ ] デフォルトブラウザを Chrome に設定
   - 「設定」 -> 「アプリ」 -> 「規定のアプリ」 -> 「Web ブラウザー」
 - [ ] Honeyview の導入
