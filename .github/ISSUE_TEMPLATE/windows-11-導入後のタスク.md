@@ -9,6 +9,8 @@ assignees: 53175ddd
 
 - [ ] winget の導入
   - <https://aka.ms/getwinget>
+  - Terminal で `Add-AppxPackage -Path .\Microsoft.DesktopAppInstaller_hogehoge.msixbundle`
+  - `winget -v`
 - [ ] Google Chrome の導入
   - `winget install --id Google.Chrome --force`
 - [ ] デフォルトブラウザを Chrome に設定
