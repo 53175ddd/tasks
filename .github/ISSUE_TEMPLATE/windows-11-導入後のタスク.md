@@ -7,7 +7,7 @@ assignees: 53175ddd
 
 ---
 
-- [ ] winget の導入
+- [ ] winget の導入（オプション）
   - <https://aka.ms/getwinget>
   - Terminal で `Add-AppxPackage -Path .\Microsoft.DesktopAppInstaller_hogehoge.msixbundle`
   - `winget -v`
@@ -17,8 +17,6 @@ assignees: 53175ddd
   - 「設定」 -> 「アプリ」 -> 「規定のアプリ」 -> 「Web ブラウザー」
 - [ ] Honeyview の導入
   - <https://honeyview.jp.download.it/download>
-- [ ] K-Lite Codec Pack の導入
-  - <https://codecguide.com/download_k-lite_codec_pack_full.htm>
 - [ ] VLC Media Player の導入
   - <https://www.videolan.org/vlc/download-windows.ja.html>
 - [ ] ExplorerPatcher の導入
@@ -29,3 +27,8 @@ assignees: 53175ddd
   - 「設定」 -> 「時刻と言語」 -> 「言語」 -> 「優先する言語」 -> 「日本語 [オプション]」 -> 「キーボード」
 - [ ] Ctrl + Space を使うように設定
   - <https://kurobutasan.com/google-ime-ctrl-space/>
+- [ ] Tailscale インストール
+  - [ ] ログイン
+- [ ] Discord
+- [ ] Synology Drive Client
+- [ ] Clipboard Remote
